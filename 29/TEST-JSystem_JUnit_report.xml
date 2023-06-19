@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><testsuite errors="0" failures="3" hostName="fv-az178-99" name="JSystem Reporter" tests="6" time="13.804" timeStamp="Mon Jun 19 17:12:55 UTC 2023"><testcase classname="Test.APITest" name="verifyEmployerEligibleProducts" time="4.499"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><testsuite errors="0" failures="3" hostName="fv-az442-59" name="JSystem Reporter" tests="6" time="15.794" timeStamp="Mon Jun 19 17:21:41 UTC 2023"><testcase classname="Test.APITest" name="verifyEmployerEligibleProducts" time="3.991"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
 	at junit.framework.JSystemJUnit4ClassRunner.jsystemEndTest(JSystemJUnit4ClassRunner.java:212)
 	at junit.framework.JSystemJUnit4ClassRunner.access$100(JSystemJUnit4ClassRunner.java:31)
 	at junit.framework.JSystemJUnit4ClassRunner$TestListenerAdapter.testFinished(JSystemJUnit4ClassRunner.java:165)
@@ -93,7 +93,7 @@
 	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
-</failure></testcase><testcase classname="Test.APITest" name="employerName" time="1.537"/><testcase classname="Test.APITest" name="verifyEmployerID" time="1.907"/><testcase classname="Test.APITest" name="verifySupportData" time="0.568"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
+</failure></testcase><testcase classname="Test.APITest" name="employerName" time="1.176"/><testcase classname="Test.APITest" name="verifyEmployerID" time="1.266"/><testcase classname="Test.APITest" name="verifySupportData" time="4.936"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
 	at junit.framework.JSystemJUnit4ClassRunner.jsystemEndTest(JSystemJUnit4ClassRunner.java:212)
 	at junit.framework.JSystemJUnit4ClassRunner.access$100(JSystemJUnit4ClassRunner.java:31)
 	at junit.framework.JSystemJUnit4ClassRunner$TestListenerAdapter.testFinished(JSystemJUnit4ClassRunner.java:165)
@@ -187,7 +187,7 @@
 	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
-</failure></testcase><testcase classname="Test.APITest" name="verifyNegativeEmployerID" time="1.329"/><testcase classname="Test.APITest" name="alreadyExistUser" time="2.96"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
+</failure></testcase><testcase classname="Test.APITest" name="verifyNegativeEmployerID" time="1.238"/><testcase classname="Test.APITest" name="alreadyExistUser" time="2.215"><failure message="Fail report was submitted" type="class junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Fail report was submitted
 	at junit.framework.JSystemJUnit4ClassRunner.jsystemEndTest(JSystemJUnit4ClassRunner.java:212)
 	at junit.framework.JSystemJUnit4ClassRunner.access$100(JSystemJUnit4ClassRunner.java:31)
 	at junit.framework.JSystemJUnit4ClassRunner$TestListenerAdapter.testFinished(JSystemJUnit4ClassRunner.java:165)
