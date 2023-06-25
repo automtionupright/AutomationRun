@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><reports Date="Sun Jun 25 14:33:29 UTC 2023" Scenario="RunTests/SQA-12116" Setup="default.xml" Station="10.1.0.53" User="runner" Version="unknown" startTime="1687703609460" status="true">
+    <test count="1" documentaion="" endTime="1687703610914" failCause="" name="APITest.verifyValidRpm" package="Test" params="EmployerID=${employerId}&#10;" properties="" startTime="1687703609887" status="false" steps="" testIndex="0"/>
+    <test count="1" documentaion="" endTime="1687703615048" failCause="" name="APITest.addNewRPM" package="Test" params="EmployerID=${employerId}&#10;" properties="" startTime="1687703611025" status="true" steps="" testIndex="1"/>
+    <test count="1" documentaion="" endTime="1687703615108" failCause="" name="APITest.verifyInValidRpm" package="Test" params="EmployerID=${employerId}&#10;" properties="" startTime="1687703615082" status="false" steps="" testIndex="2"/>
+    <test count="1" documentaion="" endTime="1687703615182" failCause="" name="APITest.verifyInValidEmployerId" package="Test" params="EmployerID=${employerId}&#10;" properties="" startTime="1687703615157" status="false" steps="" testIndex="3"/>
+    <test count="1" documentaion="" endTime="1687703615248" failCause="" name="APITest.ChangeToInactiveRpm" package="Test" params="EmployerID=${employerId}&#10;" properties="" startTime="1687703615228" status="false" steps="" testIndex="4"/>
+    <test count="1" documentaion="" endTime="1687703622534" failCause="" name="APITest.rpmCreatePatientRequest" package="Test" params="EmployerID=${employerId}&#10;" properties="" startTime="1687703615286" status="false" steps="" testIndex="5"/>
+</reports>
