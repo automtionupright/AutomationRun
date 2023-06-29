@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><reports Date="Thu Jun 29 09:05:05 UTC 2023" Scenario="RunTests/verifyAlreadyExistUser" Setup="default.xml" Station="10.1.0.182" User="runner" Version="unknown" startTime="1688029504926" status="true">
+    <test count="1" documentaion="" endTime="1688029529026" failCause="" name="APITest.alreadyExistUser" package="Test" params="IsNewEnrollment=${isNewEnrollment}&#10;ValidProducts=${products}&#10;EmployerID=${employerId}&#10;" properties="" startTime="1688029505406" status="false" steps="" testIndex="0"/>
+</reports>
