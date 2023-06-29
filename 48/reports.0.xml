@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><reports Date="Thu Jun 29 09:13:18 UTC 2023" Scenario="RunTests/verifyWrongEmployerID" Setup="default.xml" Station="10.1.0.166" User="runner" Version="unknown" startTime="1688029998056" status="true">
+    <test count="1" documentaion="" endTime="1688030003212" failCause="" name="APITest.verifyNegativeEmployerID" package="Test" params="" properties="" startTime="1688029998462" status="true" steps="" testIndex="0"/>
+</reports>
