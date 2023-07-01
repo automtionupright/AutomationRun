@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><reports Date="Sat Jul 01 17:41:48 UTC 2023" Scenario="RunTests/checkEligbilityWithFIRST_LAST_DOB_GENDER" Setup="default.xml" Station="10.1.0.42" User="runner" Version="unknown" startTime="1688233308370" status="true">
+    <test count="1" documentaion="" endTime="1688233321795" failCause="" name="APITest.checkEligibilityValidation" package="Test" params="SupportPhone=${phone}&#10;SupportEmail=${email}&#10;ValidationFields=FIRST_LAST_DOB_GENDER&#10;EmployerID=${employerId}&#10;" properties="" startTime="1688233308956" status="true" steps="" testIndex="0"/>
+</reports>
