@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><reports Date="Sat Jul 01 10:25:07 UTC 2023" Scenario="RunTests/checkIfNewEmployeeExist" Setup="default.xml" Station="10.1.0.46" User="runner" Version="unknown" startTime="1688207107016" status="true">
+    <test count="1" documentaion="" endTime="1688207109405" failCause="" name="APITest.verifyIfNewEmployeeExist" package="Test" params="EmployerID=${employerId}&#10;" properties="" startTime="1688207107413" status="true" steps="" testIndex="0"/>
+</reports>
