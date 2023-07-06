@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><reports Date="Thu Jul 06 19:14:10 UTC 2023" Scenario="RunTests/CreateOrder" Setup="default.xml" Station="10.1.0.135" User="runner" Version="unknown" startTime="1688670850031" status="true">
+    <test count="1" documentaion="" endTime="1688670856318" failCause="" name="APITest.createOrder" package="Test" params="IsNewEnrollment=${isNewEnrollment}&#10;EmployerID=${employerId}&#10;ClinicSetUp=EMPLOYER&#10;" properties="" startTime="1688670850557" status="false" steps="" testIndex="0"/>
+</reports>
